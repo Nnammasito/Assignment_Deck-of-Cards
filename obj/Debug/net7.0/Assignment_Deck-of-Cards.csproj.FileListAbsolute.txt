@@ -1,0 +1,14 @@
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Deck-of-Cards\bin\Debug\net7.0\Assignment_Deck-of-Cards.exe
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Deck-of-Cards\bin\Debug\net7.0\Assignment_Deck-of-Cards.deps.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Deck-of-Cards\bin\Debug\net7.0\Assignment_Deck-of-Cards.runtimeconfig.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Deck-of-Cards\bin\Debug\net7.0\Assignment_Deck-of-Cards.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Deck-of-Cards\bin\Debug\net7.0\Assignment_Deck-of-Cards.pdb
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Deck-of-Cards\obj\Debug\net7.0\Assignment_Deck-of-Cards.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Deck-of-Cards\obj\Debug\net7.0\Assignment_Deck-of-Cards.AssemblyInfoInputs.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Deck-of-Cards\obj\Debug\net7.0\Assignment_Deck-of-Cards.AssemblyInfo.cs
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Deck-of-Cards\obj\Debug\net7.0\Assignment_Deck-of-Cards.csproj.CoreCompileInputs.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Deck-of-Cards\obj\Debug\net7.0\Assignment_Deck-of-Cards.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Deck-of-Cards\obj\Debug\net7.0\refint\Assignment_Deck-of-Cards.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Deck-of-Cards\obj\Debug\net7.0\Assignment_Deck-of-Cards.pdb
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Deck-of-Cards\obj\Debug\net7.0\Assignment_Deck-of-Cards.genruntimeconfig.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Deck-of-Cards\obj\Debug\net7.0\ref\Assignment_Deck-of-Cards.dll
